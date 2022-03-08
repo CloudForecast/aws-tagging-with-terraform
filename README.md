@@ -7,4 +7,5 @@ One of the most important ways to organize and filter your resources is by using
 These posts are written so that you can follow along. You will just need an environment that has access to the AWS API in your region. I typically use AWS Cloud9 for this purpose, but any environment with access will do.
 
 [Part 1: Terraform & AWS Tags Basics w/ an S3 Bucket: Part 1](https://www.cloudforecast.io/blog/terraform-s3-bucket-aws-tags/)
+
 [YouTube Video](https://youtu.be/-U6k0eQSVfc)
