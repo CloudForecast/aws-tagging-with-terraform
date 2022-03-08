@@ -1,4 +1,4 @@
-# aws-tagging-with-terraform
+# Terraform and AWS Tags Tutorial w/ More Than Certified and CloudForecast
 
 Managing AWS resources can be an extremely arduous process. AWS doesn't have logical resource groups and other niceties that Azure and GCP have. This nonwithstanding, AWS is still far and away the most popular cloud provider in the world. Therefore, it's still very important to find ways to organize your resources effectively.
 
