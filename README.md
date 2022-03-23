@@ -12,4 +12,9 @@ One of the most important ways to organize and filter your resources is by using
 ## Part 2: Validating AWS Tags with Terraform
 - [Blog Post](https://www.cloudforecast.io/blog/validate-aws-tags-terraform/)
 - [YouTube Video](https://youtu.be/yMZKdRkuubc)
-- [Part 1 Terraform files](https://github.com/CloudForecast/aws-tagging-with-terraform/tree/main/02-tag-validation)
+- [Part 2 Terraform files](https://github.com/CloudForecast/aws-tagging-with-terraform/tree/main/02-tag-validation)
+
+## Part 3: AWS Tag Validation in Terraform Continued: Validating Tag Names and Values
+- [Blog Post](https://www.cloudforecast.io/blog/aws-tag-validation-terraform/)
+- [YouTube Video](https://youtu.be/SMTg2jzlkdk)
+- [Part 3 Terraform files](https://github.com/CloudForecast/aws-tagging-with-terraform/tree/main/03-tag-validation)
