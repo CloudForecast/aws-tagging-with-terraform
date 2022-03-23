@@ -8,3 +8,8 @@ One of the most important ways to organize and filter your resources is by using
 - [Blog Post](https://www.cloudforecast.io/blog/terraform-s3-bucket-aws-tags/)
 - [YouTube Video](https://youtu.be/-U6k0eQSVfc)
 - [Part 1 Terraform files](https://github.com/CloudForecast/aws-tagging-with-terraform/tree/main/01-tags)
+
+## Part 2: Validating AWS Tags with Terraform
+- [Blog Post](https://www.cloudforecast.io/blog/validate-aws-tags-terraform/)
+- [YouTube Video](https://youtu.be/yMZKdRkuubc)
+- [Part 1 Terraform files](https://github.com/CloudForecast/aws-tagging-with-terraform/tree/main/02-tag-validation)
